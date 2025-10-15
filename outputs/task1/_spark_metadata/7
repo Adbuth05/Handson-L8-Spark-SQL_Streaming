@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/Handson-L8-Spark-SQL_Streaming/outputs/task1/part-00000-07be7ec9-d1bf-4c60-a9c9-9d78087518f5-c000.csv","size":406,"isDir":false,"modificationTime":1760555990193,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/Handson-L8-Spark-SQL_Streaming/outputs/task1/part-00001-53cfeaf0-56a2-48dd-ad8c-b01c6eb89b65-c000.csv","size":412,"isDir":false,"modificationTime":1760555990188,"blockReplication":1,"blockSize":33554432,"action":"add"}

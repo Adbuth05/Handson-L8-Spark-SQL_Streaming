@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+checkpoints/
+spark-warehouse/
+.metastore_db/
+.derby/
+outputs/**/_SUCCESS*
+outputs/**/*.crc
+outputs/**/._*
+outputs/task1/*
+outputs/task2/*
+
+outputs/task3/*
+
+!submit/*.csv 
